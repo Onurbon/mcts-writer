@@ -1,5 +1,7 @@
 # Making LLMs better at creative writing using Monte Carlo Tree Search
 
+See [demo output](https://onurbon.github.io/mcts-writer/thoughtly.html). 
+
 ## Motivation
 
 LLMs like gpt4 are pretty good at writing code, but reasoning models like `o1` are even better. While OpenAI has not revealed the details of how they trained `o1`, experts have speculated that they used a classic ML technique called Monte Carlo Tree Search (MCTS) under the hood. 
@@ -63,7 +65,9 @@ npx ts-node ./src/mcts.ts thoughtly 100
 npx ts-node ./src/html.ts thoughtly  
 ```
 
-You can open the resulting html page at the following address: 
+You can open the resulting html page [here](https://onurbon.github.io/mcts-writer/thoughtly.html). 
+
+
 
 // todo : add url and screen shot 
 
