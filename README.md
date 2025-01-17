@@ -1,7 +1,8 @@
 # Making LLMs better at creative writing using Monte Carlo Tree Search
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/c01d5d27-ad29-4272-8491-7e1c2f2b6cc8" />
-See interactive [demo output](https://onurbon.github.io/mcts-writer/thoughtly.html). 
+
+See interactive [demo output](https://onurbon.github.io/mcts-writer/thoughtly.html).
 
 ## Motivation
 
