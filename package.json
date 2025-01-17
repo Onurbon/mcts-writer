@@ -1,0 +1,13 @@
+{
+  "author": "Bruno Marnette",
+  "copyright": "Sense Making Technologies",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "openai": "^4.78.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}

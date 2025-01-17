@@ -1,0 +1,10 @@
+.env
+node_modules
+
+# Ignore all files in inputs and outputs folders
+inputs/*
+outputs/*
+
+# But keep thoughtly files
+!inputs/thoughtly.*
+!outputs/thoughtly.*
